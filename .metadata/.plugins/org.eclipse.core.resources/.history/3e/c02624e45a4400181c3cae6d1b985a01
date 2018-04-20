@@ -1,0 +1,5 @@
+package bank;
+
+public class BankApplication {
+	private static Account[] accountArray = new Account[100];
+}
