@@ -1,0 +1,7 @@
+package phone_20180427;
+
+public class PhoneExample {
+	public static void main(String[] args) {
+		iPhone iPhone8 = new phone("ȫ�浿");
+	}
+}

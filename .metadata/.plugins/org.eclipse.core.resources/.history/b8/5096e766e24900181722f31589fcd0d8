@@ -1,0 +1,10 @@
+package phone_20180427;
+
+public abstract class Phone {
+	public String owner;
+	public void phone(String owner) {this.owner = owner;}
+	public phone() {}
+	public abstract void turnOn();
+	public abstract void turnOff();
+	public abstract void internetSearch();
+}
