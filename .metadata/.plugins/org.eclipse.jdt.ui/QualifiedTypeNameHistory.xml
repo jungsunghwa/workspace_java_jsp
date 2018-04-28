@@ -2,6 +2,20 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="bank.Account"/>
+<fullyQualifiedTypeName name="inheritance_20180427.People"/>
+<fullyQualifiedTypeName name="inheritance_20180427.StudentExample"/>
+<fullyQualifiedTypeName name="inheritance_20180427.Student"/>
+<fullyQualifiedTypeName name="overriding.Calculator"/>
+<fullyQualifiedTypeName name="overriding.ComputerExample"/>
+<fullyQualifiedTypeName name="overriding.Computer"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="abstract_20180427.SnowTire"/>
+<fullyQualifiedTypeName name="java.beans.Transient"/>
+<fullyQualifiedTypeName name="abstract_20180427.Tire"/>
+<fullyQualifiedTypeName name="phone_20180427.Phone"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="phone_20180427.iPhone"/>
+<fullyQualifiedTypeName name="phone_20180427.galaxyPhone"/>
 </qualifiedTypeNameHistroy>
