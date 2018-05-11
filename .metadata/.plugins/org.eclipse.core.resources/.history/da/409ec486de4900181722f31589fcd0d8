@@ -1,8 +1,0 @@
-package overriding;
-
-public class Calculator {
-	double areaCircle(double r) {
-		System.out.println("Calculator areaCircle()");
-		return Math.PI * r * r; 
-	}
-}

@@ -1,8 +1,0 @@
-package inheritance_20180427;
-
-public class Student extends People{
-	
-	public Student(String name, String ssn) {
-		
-	}
-}

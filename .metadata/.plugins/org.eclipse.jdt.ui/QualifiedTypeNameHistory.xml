@@ -15,7 +15,18 @@
 <fullyQualifiedTypeName name="java.beans.Transient"/>
 <fullyQualifiedTypeName name="abstract_20180427.Tire"/>
 <fullyQualifiedTypeName name="phone_20180427.Phone"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="phone_20180427.iPhone"/>
 <fullyQualifiedTypeName name="phone_20180427.galaxyPhone"/>
+<fullyQualifiedTypeName name="interface_20180511.Soundable"/>
+<fullyQualifiedTypeName name="_20180511_interface.DaoExample"/>
+<fullyQualifiedTypeName name="_20180511_interface.DataAccessObject"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="javax.sound.sampled.AudioFileFormat"/>
+<fullyQualifiedTypeName name="_20180511_interface3.RemoteControl"/>
+<fullyQualifiedTypeName name="_20180511_interface4.Action"/>
+<fullyQualifiedTypeName name="java.awt.Button"/>
+<fullyQualifiedTypeName name="_20180511_nestedInterface.Button"/>
+<fullyQualifiedTypeName name="javax.swing.ButtonModel"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.PUBLIC_MEMBER"/>
+<fullyQualifiedTypeName name="_20180511_nestedInterface.Button.OnClickListener"/>
 </qualifiedTypeNameHistroy>
