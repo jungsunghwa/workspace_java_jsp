@@ -40,7 +40,7 @@ public class Login extends JFrame {
 			
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				if(idText.getText().equals("Hello") && pwText.getText().equals("World")){
+				if(idText.getText().equals("Hello") && String.valueOf(pwText.getPassword()).equals("World")){
 					JOptionPane.showMessageDialog(frm, "success");
 				}
 				else {
