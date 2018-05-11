@@ -20,7 +20,6 @@
 <fullyQualifiedTypeName name="interface_20180511.Soundable"/>
 <fullyQualifiedTypeName name="_20180511_interface.DaoExample"/>
 <fullyQualifiedTypeName name="_20180511_interface.DataAccessObject"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="javax.sound.sampled.AudioFileFormat"/>
 <fullyQualifiedTypeName name="_20180511_interface3.RemoteControl"/>
 <fullyQualifiedTypeName name="_20180511_interface4.Action"/>
@@ -29,4 +28,15 @@
 <fullyQualifiedTypeName name="javax.swing.ButtonModel"/>
 <fullyQualifiedTypeName name="org.omg.CORBA.PUBLIC_MEMBER"/>
 <fullyQualifiedTypeName name="_20180511_nestedInterface.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="javax.swing.JPanel"/>
+<fullyQualifiedTypeName name="java.awt.GridLayout"/>
+<fullyQualifiedTypeName name="javax.swing.JTextField"/>
+<fullyQualifiedTypeName name="javax.swing.JLabel"/>
+<fullyQualifiedTypeName name="javax.swing.SwingConstants"/>
+<fullyQualifiedTypeName name="javax.swing.JPasswordField"/>
+<fullyQualifiedTypeName name="javax.swing.JButton"/>
+<fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="javax.swing.JFrame"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
