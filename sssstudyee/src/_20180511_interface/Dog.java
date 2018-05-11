@@ -1,4 +1,4 @@
-package interface_20180511;
+package _20180511_interface;
 
 public class Dog implements Soundable {
 

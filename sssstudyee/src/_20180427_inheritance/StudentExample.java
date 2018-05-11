@@ -1,4 +1,4 @@
-package inheritance_20180427;
+package _20180427_inheritance;
 
 public class StudentExample {
 	public static void main(String[] args) {
