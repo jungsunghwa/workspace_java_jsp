@@ -6,7 +6,9 @@ userName varchar(10) not null,
 addr varchar(100),
 email varchar(30) not null,
 primary key(num)
-);
+)default charset=utf8;
+
+drop table member;
 ALTER TABLE member convert to charset utf8;
 
 insert into member values(null, "hong", "1234", "홍길동", "대구 달성군 구지면", "abc@gmail.com");
