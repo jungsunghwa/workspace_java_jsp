@@ -4,7 +4,7 @@ stu_name varchar(12) not null,
 stu_year int not null,
 stu_addr varchar(100) not null,
 stu_tel varchar(20) not null,
-stu_brith date,
+stu_birth date,
 primary key(stu_no)
 )default charset=utf8;
 
