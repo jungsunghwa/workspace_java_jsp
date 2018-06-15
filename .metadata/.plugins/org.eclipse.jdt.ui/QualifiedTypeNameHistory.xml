@@ -47,6 +47,12 @@
 <fullyQualifiedTypeName name="java.sql.DriverManager"/>
 <fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
 <fullyQualifiedTypeName name="java.sql.SQLException"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="java.lang.Enum"/>
+<fullyQualifiedTypeName name="_20180518_mysql.JDBCUtil"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.awt.Dialog.ModalExclusionType"/>
+<fullyQualifiedTypeName name="_20180608_MVC.Student"/>
+<fullyQualifiedTypeName name="_20180608_MVC.stuView"/>
+<fullyQualifiedTypeName name="_20180608_MVC.StuController"/>
 </qualifiedTypeNameHistroy>
